@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vildan Köse (vilvil)</h1>
-<h3 align="center">I am an industrial engineering student who is passionate about data in Istanbul</h3>
+<h3 align="center">I am an Industrial Engineering student who is passionate about data in Istanbul</h3>
 
-👀 I am improving myself in the field of data.
+👀 I am improving myself in the field of **data**.
 
 🔭 I’m currently working on PlanBee (planbee.app)
  
 🌱 I’m currently learning **C,Python,SQL**
 
-👨‍💻 I like to be active in the ISTUN Entrepreneurship Club and ISTUN IEEE clubs.
+👨‍💻 I like to be active in the ISTUN **Entrepreneurship Club** and **ISTUN IEEE** clubs.
 
 📫 How to reach me **v.vildankose@gmail.com**
 
